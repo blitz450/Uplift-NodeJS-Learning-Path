@@ -1,10 +1,9 @@
 # Uplift-NodeJS - Learning-Path
+Follow the links to the resources. If multiple videos/links are provided for the same topic, choose the ones that suits you.
 
 ## 1. Javascript essentials:
 
 * [Javascript Basics](Javascript%20Essestials/Javascript%20basics.md)
-* Arrow Functions
-* Map,reduce,filter functions on array
 * [Asynchronous Javascript](Javascript%20Essestials/Asynchronous%20JS.md)
 
  ## 2. Intro to NodeJS
