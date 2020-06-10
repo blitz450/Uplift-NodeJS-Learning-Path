@@ -11,3 +11,4 @@ You can follow these courses to learn the basics.
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [MDN JavaScript basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 * [Freecodecamp - The Best JavaScript Tutorials](https://www.freecodecamp.org/news/best-javascript-tutorial/)
+* [Javascript Tutorial](https://www.javascripttutorial.net/)
