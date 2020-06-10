@@ -12,26 +12,25 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Installing NodeJS
 * Executing JS in NodeJS
 
-## 3. Nodejs modules (fs/http etc..)
+## 3. Nodejs modules 
 
 ## 4. Custom nodejs modules
 
 ## 5. NPM package
 
 ## 6. Server introduction
-
-## 7. What is a server?
+* What is a server?
 * HTTP req
 * Req Headers
 * Req payload/body
 * GET/POST/PUT/PATCH/DEL  req
 * REST API
 
-## 8. Web app in nodejs (with inbuilt modules)
+## 7. Web app in nodejs (with inbuilt modules)
 * Serving HTML(static files)
 * Sending JSON data.
 
-## 9. Web app with expres.
+## 8. Web app with Expres.
 * Serving HTML
 * Templating engines.
 * Serving JSON data.
@@ -42,7 +41,7 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Error handling
 
 
-## 10. Connecting Database with Expres
+## 9. Connecting Database with Expres
 * What and why of DB
 * Types of DB
 * Connecting with MongoDB
@@ -52,17 +51,17 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Model View Controllers
 * Relations in MongoDB
 
-## 11. Validation and sanatization
+## 10. Validation and sanatization
 * Why do we need it
 * Validating data
 * Sanatizing data
 
-## 12. Authentication
+## 11. Authentication
 * Sessions
 * CSRF token and why to use it?
 * JWT
 
-## 13. Misc.
+## 12. Misc.
 * File uploads
 * Socket io
 * Testing
