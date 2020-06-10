@@ -3,8 +3,8 @@
 ## Videos
 You can follow these cources to learn the basics.
 
-* [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-* [JavaScript Crash Course For Beginners](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+* [Learn JavaScript - Full Course for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+* [JavaScript Crash Course For Beginners (Traversy Media)](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 
 ## Other resources
 
