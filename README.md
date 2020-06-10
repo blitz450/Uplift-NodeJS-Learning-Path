@@ -1,11 +1,12 @@
 # Uplift-NodeJS - Learning-Path
 
-## 1. Javascript basics:
+## 1. Javascript essentials:
 
-* Try catch block
+* Javascript Basics
 * Arrow Functions
 * Map,reduce,filter functions on array
-* Callbacks [ .then().catch() ]
+* Callbacks
+* Try catch block
 * Promises
 * Async Await
 
