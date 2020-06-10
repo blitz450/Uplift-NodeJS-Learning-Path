@@ -5,10 +5,7 @@
 * [Javascript Basics](Javascript%20Essestials/Javascript%20basics.md)
 * Arrow Functions
 * Map,reduce,filter functions on array
-* Callbacks
-* Try catch block
-* Promises
-* Async Await
+* [Asynchronous Javascript](Javascript%20Essestials/Asynchronous%20JS.md)
 
  ## 2. Intro to NodeJS
 * What is Node JS?
