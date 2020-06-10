@@ -2,7 +2,7 @@
 
 ## 1. Javascript essentials:
 
-* Javascript Basics
+* [Javascript Basics](Javascript%20Essestials/Javascript%20basics.md)
 * Arrow Functions
 * Map,reduce,filter functions on array
 * Callbacks
