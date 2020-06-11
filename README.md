@@ -10,13 +10,17 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * What is Node JS?
 * What can we do with NodeJS?
 * Installing NodeJS
-* Executing JS in NodeJS
+* Executing JS in NodeJS  
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 3. Nodejs modules 
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 4. Custom nodejs modules
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 5. NPM package
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 6. Server introduction
 * What is a server?
@@ -24,11 +28,13 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Req Headers
 * Req payload/body
 * GET/POST/PUT/PATCH/DEL  req
-* REST API
+* REST API  
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 7. Web app in nodejs (with inbuilt modules)
 * Serving HTML(static files)
-* Sending JSON data.
+* Sending JSON data.  
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 8. Web app with Expres.
 * Serving HTML
@@ -38,8 +44,8 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * GET/POST/… req
 * Request body
 * Query & Params
-* Error handling
-
+* Error handling  
+[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 9. Connecting Database with Expres
 * What and why of DB
