@@ -2,7 +2,7 @@
 
 ## 1. Javascript essentials:
 
-- [ ] Javascript Basics
+- [x] Javascript Basics
 - [ ] Asynchronous Javascript
 
  ## 2. Intro to NodeJS
