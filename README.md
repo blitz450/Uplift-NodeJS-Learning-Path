@@ -7,36 +7,37 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * [Asynchronous Javascript](Javascript%20Essestials/Asynchronous%20JS.md)
 
  ## 2. Intro to NodeJS
-* What is Node JS?
-* What can we do with NodeJS?
-* Installing NodeJS
-* Executing JS in NodeJS  
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
+
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
+* [What is Node JS?](NodeJS%20and%20Express/What%20is%20Nodejs.md)
+* [What can we do with NodeJS?](NodeJS%20and%20Express/What%20can%20we%20do%20with%20nodejs.md)
+* [Installing NodeJS](NodeJS%20and%20Express/Installing%20NodeJS.md)
 
 ## 3. Nodejs modules 
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 
 ## 4. Custom nodejs modules
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 
 ## 5. NPM package
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 
 ## 6. Server introduction
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 * What is a server?
 * HTTP req
 * Req Headers
 * Req payload/body
 * GET/POST/PUT/PATCH/DEL  req
 * REST API  
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
 ## 7. Web app in nodejs (with inbuilt modules)
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 * Serving HTML(static files)
 * Sending JSON data.  
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
-## 8. Web app with Expres.
+## 8. Web app with Express.
+* [Crash course (Module 2-8)](NodeJS%20and%20Express/Crash%20course.md)
 * Serving HTML
 * Templating engines.
 * Serving JSON data.
@@ -45,9 +46,8 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Request body
 * Query & Params
 * Error handling  
-[Link Topic 2-8](https://github.com/blitz450/Uplift-NodeJS-Learning-Path/blob/master/NodeJS%20and%20Express/NodeJS-Express.md)
 
-## 9. Connecting Database with Expres
+## 9. Connecting Database with Express
 * What and why of DB
 * Types of DB
 * Connecting with MongoDB
