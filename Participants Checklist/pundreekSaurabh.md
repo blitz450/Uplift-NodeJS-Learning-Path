@@ -7,4 +7,4 @@ This is the template for participants' checklist.
 - [x] Asynchronous Javascript
 
  ## 2. Intro to NodeJS
-...
+- [x] Nodejs Installation (Linux)
