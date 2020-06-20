@@ -48,21 +48,25 @@ Follow the links to the resources. If multiple videos/links are provided for the
 * Error handling  
 
 ## 9. Connecting Database with Express
-* What and why of DB
-* Types of DB
-* Connecting with MongoDB
+* [What and why of DB](https://www.youtube.com/watch?v=Ls_LzOZ7x0c)
+* [Types of DB](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y) (0:36 SQL , 9:00 NoSQL , 13:13 Differences)
+* [MongoDB, MongoDB Compass, MongoDB Atlas](https://www.youtube.com/watch?v=-56x56UppqQ) (CheatSheet in Description)
 * CRUD Operating with MongoDB
-* What is ORM
-* Using Mongoose ORM in MongoDB
+* [Crash Course (Module 9-11)](https://www.youtube.com/watch?v=SBvmnHTQIPY)
+* Connecting NodeJS with MongoDB
+* What is ORM/ODM
+* Using Mongoose ODM 
 * Model View Controllers
 * Relations in MongoDB
 
 ## 10. Validation and sanatization
+* [Crash Course (Module 9-11)](https://www.youtube.com/watch?v=SBvmnHTQIPY)
 * Why do we need it
 * Validating data
 * Sanatizing data
 
 ## 11. Authentication
+* [Crash Course (Module 9-11)](https://www.youtube.com/watch?v=SBvmnHTQIPY)
 * Sessions
 * CSRF token and why to use it?
 * JWT
