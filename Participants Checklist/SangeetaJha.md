@@ -9,6 +9,6 @@
 
 - [x] What is NodeJS
 - [x] What can we do with NodeJS
-- [ ] Crash Course
+- [x] Crash Course
 - [x] Installing NodeJS
 
