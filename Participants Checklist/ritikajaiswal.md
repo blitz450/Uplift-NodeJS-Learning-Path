@@ -43,3 +43,15 @@ This is the template for participants' checklist. You can create a checklist in 
 - [x] GET/POST/… req
 - [x] Request body
 - [x] Query & Params
+
+## 9. Connecting Database with Express
+- [x] What and why of DB
+- [x] Types of DB 
+- [x] MongoDB, MongoDB Compass, MongoDB Atlas 
+- [x] CRUD Operating with MongoDB
+- [x] Crash Course (Module 9-11)
+- [x] Connecting NodeJS with MongoDB
+- [x] What is ORM/ODM
+- [x] Using Mongoose ODM 
+- [x] Model View Controllers
+- [x] Relations in MongoDB
