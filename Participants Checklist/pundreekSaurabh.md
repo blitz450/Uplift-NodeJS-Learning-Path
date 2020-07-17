@@ -33,3 +33,13 @@ This is the template for participants' checklist.
 - [x] Crash course (Module 2-8)
 - [x] Serving HTML(static files)
 - [x] Sending JSON data.
+
+## 8. Web app with Express.
+- [x] Crash course (Module 2-8)
+- [x] Serving HTML
+- [x] Templating engines.
+- [x] Serving JSON data.
+- [x] Middlewares.
+- [x] GET/POST/… req
+- [x] Request body
+- [x] Query & Params
